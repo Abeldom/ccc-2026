@@ -5,3 +5,5 @@ Score history of the counted files (medium + large + enormous), lower is better
 19:38  medium 5940  large 5334  enormous 4801  total 16075  line-sweep candidate + exact validation
 19:40  medium 5936  large 5334  enormous 4801  total 16071  2-cycle candidate + exact validation
 19:45  medium 5936  large 5319  enormous 4801  total 16056  large line-cover candidate + exact validation
+19:57  medium 5921  large 5307  enormous 4729  total 15957  (build splicing: work/splice.py mixes builds between acceptances across all solver outputs)
+19:57  medium 5921  large 5307  enormous 4723  total 15951  sweep candidate and candidate merge + exact validation

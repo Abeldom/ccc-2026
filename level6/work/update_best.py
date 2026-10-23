@@ -48,7 +48,7 @@ def run():
         cur = score_of(case, pub)
         if cur is not None: srcs.append('.')                     # current published best competes too
         subprocess.run([sys.executable, 'combine.py', case, merged] + srcs, check=True, capture_output=True)
-        subprocess.run([os.path.join('work', 'postopt', 'postopt.exe'), 'in_level-6_%s.txt' % case, merged, opt],
+        subprocess.run([os.path.join('work', 'postopt', 'postopt_static.exe'), 'in_level-6_%s.txt' % case, merged, opt],
                        check=True, capture_output=True)
         new = score_of(case, opt)
         if new is not None and (cur is None or new < cur):

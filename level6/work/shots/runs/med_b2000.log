@@ -1,0 +1,211 @@
+case 2 r=3 cnt=1 -> 3 lines (cycle L=3) 0.4s
+case 1 r=4 cnt=4 -> 13 lines (chain) 0.7s
+case 4 r=4 cnt=3 -> 9 lines (cycle L=2) 0.5s
+case 5 r=4 cnt=7 -> 15 lines (cycle L=2) 0.5s
+case 7 r=4 cnt=13 -> 15 lines (cycle L=1) 0.1s
+case 8 r=3 cnt=5 -> 11 lines (cycle L=2) 0.2s
+case 6 r=3 cnt=13 -> 27 lines (cycle L=2) 0.8s
+case 3 r=5 cnt=11 -> 35 lines (chain) 2.3s
+case 0 r=3 cnt=14 -> 43 lines (chain) 2.4s
+case 11 r=4 cnt=9 -> 19 lines (cycle L=2) 0.6s
+case 12 r=3 cnt=13 -> 27 lines (cycle L=2) 0.7s
+case 13 r=3 cnt=12 -> 25 lines (cycle L=2) 0.4s
+case 14 r=3 cnt=14 -> 29 lines (cycle L=2) 0.8s
+case 16 r=5 cnt=17 -> 19 lines (cycle L=1) 0.1s
+case 9 r=5 cnt=17 -> 53 lines (cycle L=3) 2.6s
+case 15 r=4 cnt=5 -> 16 lines (chain) 1.1s
+case 17 r=3 cnt=15 -> 31 lines (cycle L=2) 0.6s
+case 18 r=3 cnt=14 -> 29 lines (cycle L=2) 1.0s
+case 19 r=3 cnt=13 -> 27 lines (cycle L=2) 0.9s
+case 20 r=4 cnt=1 -> 5 lines (cycle L=2) 0.7s
+case 10 r=4 cnt=9 -> 29 lines (chain) 3.8s
+case 23 r=3 cnt=14 -> 29 lines (cycle L=2) 0.6s
+case 22 r=4 cnt=7 -> 22 lines (cycle L=3) 1.3s
+case 24 r=5 cnt=19 -> 38 lines (cycle L=2) 2.5s
+case 21 r=4 cnt=17 -> 54 lines (chain) 3.3s
+case 27 r=3 cnt=6 -> 13 lines (cycle L=2) 0.3s
+case 25 r=5 cnt=17 -> 53 lines (cycle L=3) 2.5s
+case 29 r=4 cnt=12 -> 26 lines (cycle L=2) 1.8s
+case 26 r=5 cnt=10 -> 52 lines (chain) 4.0s
+case 30 r=5 cnt=7 -> 43 lines (chain) 3.2s
+case 32 r=3 cnt=6 -> 18 lines (cycle L=3) 1.6s
+case 33 r=5 cnt=19 -> 40 lines (cycle L=2) 1.0s
+case 31 r=4 cnt=2 -> 12 lines (chain) 2.9s
+case 34 r=5 cnt=3 -> 13 lines (cycle L=4) 1.1s
+case 28 r=4 cnt=12 -> 62 lines (cycle L=5) 5.1s
+case 36 r=3 cnt=3 -> 7 lines (cycle L=2) 0.6s
+case 38 r=3 cnt=7 -> 15 lines (cycle L=2) 0.3s
+case 37 r=4 cnt=15 -> 31 lines (cycle L=2) 1.0s
+case 41 r=4 cnt=1 -> 4 lines (cycle L=3) 0.4s
+case 42 r=3 cnt=5 -> 11 lines (cycle L=2) 0.2s
+case 43 r=3 cnt=2 -> 5 lines (cycle L=2) 0.1s
+case 40 r=3 cnt=14 -> 43 lines (cycle L=3) 1.7s
+case 39 r=4 cnt=6 -> 19 lines (cycle L=3) 2.4s
+case 45 r=5 cnt=2 -> 7 lines (chain) 0.6s
+case 47 r=3 cnt=11 -> 23 lines (cycle L=2) 0.3s
+case 46 r=4 cnt=8 -> 17 lines (cycle L=2) 1.0s
+case 44 r=5 cnt=14 -> 43 lines (cycle L=3) 2.7s
+case 35 r=5 cnt=17 -> 86 lines (chain) 5.8s
+case 48 r=4 cnt=15 -> 46 lines (chain) 2.2s
+case 51 r=4 cnt=10 -> 21 lines (cycle L=2) 0.6s
+case 52 r=4 cnt=6 -> 13 lines (cycle L=2) 0.4s
+case 53 r=3 cnt=17 -> 35 lines (cycle L=2) 0.6s
+case 54 r=3 cnt=4 -> 10 lines (cycle L=2) 0.6s
+case 55 r=3 cnt=18 -> 37 lines (cycle L=2) 1.0s
+case 56 r=5 cnt=15 -> 46 lines (cycle L=3) 2.1s
+case 57 r=4 cnt=12 -> 37 lines (cycle L=3) 1.8s
+case 58 r=5 cnt=5 -> 40 lines (cycle L=6) 2.7s
+case 59 r=5 cnt=5 -> 28 lines (chain) 2.6s
+case 60 r=3 cnt=14 -> 29 lines (cycle L=2) 0.8s
+case 61 r=3 cnt=15 -> 31 lines (cycle L=2) 0.9s
+case 63 r=3 cnt=2 -> 7 lines (cycle L=3) 0.4s
+case 64 r=3 cnt=6 -> 12 lines (cycle L=2) 0.3s
+case 62 r=5 cnt=10 -> 31 lines (chain) 1.4s
+case 65 r=5 cnt=1 -> 4 lines (cycle L=3) 0.3s
+case 66 r=4 cnt=10 -> 21 lines (cycle L=2) 0.6s
+case 67 r=5 cnt=15 -> 31 lines (cycle L=2) 0.8s
+case 69 r=4 cnt=4 -> 6 lines (cycle L=1) 0.1s
+case 68 r=3 cnt=12 -> 25 lines (cycle L=2) 0.7s
+case 71 r=5 cnt=18 -> 22 lines (cycle L=1) 0.7s
+case 50 r=5 cnt=19 -> 133 lines (chain) 11.0s
+case 73 r=3 cnt=10 -> 21 lines (cycle L=2) 0.6s
+case 70 r=4 cnt=14 -> 43 lines (chain) 2.1s
+case 74 r=3 cnt=7 -> 15 lines (cycle L=2) 0.5s
+case 75 r=3 cnt=2 -> 7 lines (cycle L=3) 0.4s
+case 76 r=3 cnt=14 -> 28 lines (cycle L=2) 1.1s
+case 49 r=5 cnt=16 -> 96 lines (chain) 13.9s
+case 79 r=3 cnt=2 -> 5 lines (cycle L=2) 0.5s
+case 78 r=3 cnt=12 -> 25 lines (cycle L=2) 0.7s
+case 81 r=3 cnt=2 -> 6 lines (cycle L=2) 0.4s
+case 72 r=4 cnt=16 -> 65 lines (cycle L=4) 3.4s
+case 82 r=3 cnt=2 -> 6 lines (chain) 0.4s
+case 77 r=4 cnt=8 -> 33 lines (chain) 2.4s
+case 83 r=5 cnt=4 -> 13 lines (chain) 0.7s
+case 84 r=5 cnt=9 -> 28 lines (chain) 1.3s
+case 85 r=4 cnt=17 -> 36 lines (cycle L=2) 1.4s
+case 87 r=4 cnt=6 -> 14 lines (cycle L=2) 0.4s
+case 88 r=4 cnt=4 -> 9 lines (cycle L=2) 0.3s
+case 86 r=4 cnt=10 -> 42 lines (cycle L=4) 1.9s
+case 89 r=3 cnt=4 -> 12 lines (chain) 0.8s
+case 92 r=4 cnt=6 -> 13 lines (cycle L=2) 0.3s
+case 91 r=4 cnt=13 -> 27 lines (cycle L=2) 0.8s
+case 93 r=3 cnt=17 -> 35 lines (cycle L=2) 0.7s
+case 94 r=4 cnt=14 -> 29 lines (cycle L=2) 0.8s
+case 90 r=3 cnt=13 -> 39 lines (cycle L=3) 2.2s
+case 97 r=3 cnt=1 -> 2 lines (cycle L=1) 0.0s
+case 95 r=4 cnt=11 -> 23 lines (cycle L=2) 0.5s
+case 96 r=3 cnt=3 -> 7 lines (cycle L=2) 0.2s
+case 100 r=3 cnt=7 -> 15 lines (cycle L=2) 0.2s
+case 99 r=5 cnt=7 -> 15 lines (cycle L=2) 0.4s
+case 101 r=5 cnt=14 -> 17 lines (cycle L=1) 0.4s
+case 102 r=5 cnt=1 -> 4 lines (cycle L=2) 0.3s
+case 103 r=3 cnt=13 -> 15 lines (cycle L=1) 0.0s
+case 104 r=3 cnt=5 -> 10 lines (cycle L=2) 0.3s
+case 98 r=5 cnt=11 -> 35 lines (cycle L=3) 1.6s
+case 106 r=3 cnt=15 -> 32 lines (cycle L=2) 0.9s
+case 108 r=3 cnt=11 -> 23 lines (cycle L=2) 0.4s
+case 105 r=4 cnt=7 -> 29 lines (cycle L=4) 1.8s
+case 109 r=4 cnt=3 -> 10 lines (cycle L=3) 0.5s
+case 111 r=4 cnt=13 -> 27 lines (chain) 1.0s
+case 110 r=5 cnt=13 -> 42 lines (chain) 2.4s
+case 112 r=3 cnt=10 -> 31 lines (cycle L=3) 1.3s
+case 113 r=3 cnt=9 -> 19 lines (cycle L=2) 0.3s
+case 80 r=5 cnt=18 -> 74 lines (cycle L=4) 10.8s
+case 114 r=3 cnt=16 -> 33 lines (cycle L=2) 0.7s
+case 116 r=3 cnt=3 -> 7 lines (cycle L=2) 0.5s
+case 107 r=4 cnt=16 -> 80 lines (chain) 5.1s
+case 117 r=5 cnt=3 -> 13 lines (cycle L=4) 0.9s
+case 120 r=3 cnt=14 -> 29 lines (cycle L=2) 0.4s
+case 121 r=3 cnt=11 -> 12 lines (cycle L=1) 0.0s
+case 115 r=3 cnt=13 -> 39 lines (chain) 1.8s
+case 118 r=4 cnt=7 -> 15 lines (cycle L=2) 0.9s
+case 123 r=4 cnt=11 -> 24 lines (cycle L=2) 0.7s
+case 122 r=3 cnt=13 -> 27 lines (cycle L=2) 0.8s
+case 126 r=4 cnt=13 -> 40 lines (chain) 1.8s
+case 127 r=5 cnt=10 -> 22 lines (chain) 0.9s
+case 125 r=5 cnt=17 -> 53 lines (chain) 2.8s
+case 129 r=3 cnt=6 -> 13 lines (cycle L=2) 0.2s
+case 119 r=4 cnt=17 -> 86 lines (chain) 6.6s
+case 128 r=4 cnt=17 -> 64 lines (chain) 4.2s
+case 131 r=4 cnt=17 -> 52 lines (chain) 2.9s
+case 130 r=5 cnt=15 -> 90 lines (chain) 6.6s
+case 124 r=5 cnt=7 -> 45 lines (cycle L=6) 10.4s
+case 134 r=5 cnt=15 -> 31 lines (cycle L=2) 0.9s
+case 136 r=3 cnt=7 -> 15 lines (cycle L=2) 0.3s
+case 135 r=3 cnt=5 -> 11 lines (cycle L=2) 1.2s
+case 133 r=4 cnt=10 -> 41 lines (chain) 3.3s
+case 137 r=5 cnt=11 -> 24 lines (cycle L=2) 0.7s
+case 140 r=4 cnt=6 -> 14 lines (cycle L=2) 0.5s
+case 132 r=5 cnt=6 -> 66 lines (cycle L=9) 6.1s
+case 139 r=4 cnt=17 -> 36 lines (cycle L=2) 1.5s
+case 143 r=5 cnt=10 -> 31 lines (cycle L=3) 1.7s
+case 141 r=5 cnt=17 -> 53 lines (chain) 3.7s
+case 145 r=3 cnt=7 -> 15 lines (cycle L=2) 0.2s
+case 142 r=5 cnt=14 -> 58 lines (cycle L=4) 3.7s
+case 146 r=3 cnt=17 -> 36 lines (cycle L=2) 1.8s
+case 147 r=4 cnt=15 -> 32 lines (cycle L=2) 1.1s
+case 148 r=3 cnt=5 -> 11 lines (cycle L=2) 0.2s
+case 150 r=4 cnt=1 -> 3 lines (cycle L=2) 0.1s
+case 151 r=3 cnt=1 -> 3 lines (cycle L=2) 0.0s
+case 149 r=4 cnt=6 -> 14 lines (cycle L=2) 0.7s
+case 138 r=4 cnt=15 -> 62 lines (cycle L=4) 8.7s
+case 152 r=5 cnt=7 -> 23 lines (chain) 1.7s
+case 154 r=5 cnt=10 -> 21 lines (cycle L=2) 1.2s
+case 155 r=4 cnt=4 -> 14 lines (cycle L=3) 1.3s
+case 144 r=5 cnt=15 -> 78 lines (cycle L=5) 6.6s
+case 157 r=3 cnt=9 -> 18 lines (cycle L=2) 0.6s
+case 159 r=5 cnt=19 -> 39 lines (cycle L=2) 1.1s
+case 156 r=3 cnt=19 -> 39 lines (cycle L=2) 2.0s
+case 160 r=4 cnt=15 -> 31 lines (cycle L=2) 1.0s
+case 153 r=4 cnt=19 -> 76 lines (chain) 5.4s
+case 163 r=3 cnt=2 -> 7 lines (chain) 0.6s
+case 164 r=3 cnt=10 -> 21 lines (cycle L=2) 0.5s
+case 165 r=4 cnt=10 -> 31 lines (chain) 1.6s
+case 166 r=3 cnt=8 -> 17 lines (cycle L=2) 0.3s
+case 162 r=4 cnt=17 -> 58 lines (chain) 3.8s
+case 158 r=5 cnt=15 -> 92 lines (cycle L=6) 6.4s
+case 169 r=4 cnt=1 -> 3 lines (cycle L=2) 0.1s
+case 168 r=3 cnt=8 -> 17 lines (cycle L=2) 0.4s
+case 170 r=4 cnt=4 -> 22 lines (chain) 2.0s
+case 172 r=4 cnt=7 -> 29 lines (chain) 1.8s
+case 171 r=4 cnt=9 -> 38 lines (cycle L=4) 3.9s
+case 174 r=4 cnt=6 -> 13 lines (cycle L=2) 0.3s
+case 173 r=4 cnt=10 -> 31 lines (cycle L=3) 1.5s
+case 175 r=5 cnt=15 -> 32 lines (cycle L=2) 0.9s
+case 177 r=4 cnt=6 -> 14 lines (cycle L=2) 0.5s
+case 176 r=5 cnt=15 -> 32 lines (cycle L=2) 0.8s
+case 179 r=3 cnt=7 -> 16 lines (cycle L=2) 0.7s
+case 178 r=4 cnt=14 -> 53 lines (chain) 2.6s
+case 180 r=4 cnt=12 -> 50 lines (chain) 3.7s
+case 181 r=4 cnt=19 -> 58 lines (cycle L=3) 2.9s
+case 182 r=5 cnt=4 -> 22 lines (cycle L=5) 1.6s
+case 183 r=3 cnt=10 -> 31 lines (cycle L=3) 1.7s
+case 161 r=5 cnt=7 -> 74 lines (chain) 18.1s
+case 185 r=4 cnt=7 -> 16 lines (cycle L=2) 0.5s
+case 184 r=4 cnt=4 -> 21 lines (chain) 1.7s
+case 187 r=5 cnt=2 -> 12 lines (chain) 1.3s
+case 189 r=4 cnt=3 -> 10 lines (chain) 0.6s
+case 188 r=5 cnt=13 -> 40 lines (cycle L=3) 1.9s
+case 191 r=5 cnt=2 -> 8 lines (cycle L=3) 0.6s
+case 190 r=5 cnt=9 -> 37 lines (chain) 2.5s
+case 186 r=5 cnt=4 -> 33 lines (chain) 5.2s
+case 192 r=5 cnt=6 -> 32 lines (cycle L=5) 2.2s
+case 193 r=4 cnt=17 -> 20 lines (cycle L=1) 0.6s
+case 196 r=3 cnt=8 -> 17 lines (cycle L=2) 0.3s
+case 195 r=4 cnt=12 -> 24 lines (cycle L=2) 0.7s
+case 194 r=5 cnt=13 -> 28 lines (cycle L=2) 1.6s
+case 198 r=3 cnt=8 -> 24 lines (cycle L=3) 1.6s
+case 199 r=5 cnt=3 -> 10 lines (cycle L=3) 1.0s
+case 201 r=3 cnt=1 -> 3 lines (cycle L=2) 0.1s
+case 200 r=5 cnt=4 -> 13 lines (chain) 0.7s
+case 202 r=4 cnt=7 -> 16 lines (cycle L=2) 1.1s
+case 167 r=5 cnt=17 -> 168 lines (chain) 23.2s
+case 204 r=3 cnt=2 -> 5 lines (cycle L=2) 0.3s
+case 206 r=3 cnt=4 -> 9 lines (cycle L=2) 0.4s
+case 205 r=4 cnt=10 -> 22 lines (cycle L=2) 1.3s
+case 208 r=3 cnt=9 -> 19 lines (cycle L=2) 0.5s
+case 209 r=3 cnt=4 -> 8 lines (cycle L=2) 0.5s
+case 203 r=5 cnt=16 -> 80 lines (chain) 5.4s
+case 197 r=5 cnt=8 -> 85 lines (chain) 8.2s
+case 207 r=5 cnt=15 -> 63 lines (chain) 7.2s
+total 6231

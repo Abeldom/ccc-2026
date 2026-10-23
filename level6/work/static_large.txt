@@ -1,0 +1,2 @@
+case 61 r=7 |P|=6 cnt=3 static maxoff=6 cost=9
+static-able: 1 / 190

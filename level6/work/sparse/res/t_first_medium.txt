@@ -1,0 +1,14 @@
+FIRST 2 r=3 P=10 K=8 cnt=1 best=3 static=0 first=3 LB=3 nodes=479 t=0.0
+FIRST 20 r=4 P=9 K=9 cnt=1 best=5 static=0 first=4 LB=4 nodes=93366 t=0.4
+RES 20 4
+F F F - - B
+F F T F T T
+F T F T F B
+T F - F B B
+FIRST 41 r=4 P=14 K=12 cnt=1 best=4 static=0 first=4 LB=4 nodes=165884 t=0.5
+FIRST 65 r=5 P=14 K=21 cnt=1 best=4 static=0 first=4 LB=4 nodes=166625 t=0.5
+FIRST 97 r=3 P=5 K=7 cnt=1 best=2 static=1 first=2 LB=2 nodes=3 t=0.0
+FIRST 102 r=5 P=7 K=18 cnt=1 best=4 static=0 first=4 LB=4 nodes=4442 t=0.0
+FIRST 6 r=3 P=4 K=8 cnt=13 best=27 static=0 first=3 LB=27 nodes=26 t=0.0
+FIRST 7 r=4 P=4 K=12 cnt=13 best=15 static=1 first=3 LB=15 nodes=13 t=0.0
+FIRST 181 r=4 P=9 K=12 cnt=19 best=58 static=0 first=4 LB=40 nodes=14844 t=0.1

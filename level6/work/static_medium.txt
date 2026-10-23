@@ -1,0 +1,10 @@
+case 7 r=4 |P|=4 cnt=13 static maxoff=2 cost=15
+case 16 r=5 |P|=6 cnt=17 static maxoff=2 cost=19
+case 69 r=4 |P|=4 cnt=4 static maxoff=2 cost=6
+case 71 r=5 |P|=5 cnt=18 static maxoff=4 cost=22
+case 97 r=3 |P|=5 cnt=1 static maxoff=1 cost=2
+case 101 r=5 |P|=6 cnt=14 static maxoff=3 cost=17
+case 103 r=3 |P|=4 cnt=13 static maxoff=2 cost=15
+case 121 r=3 |P|=4 cnt=11 static maxoff=1 cost=12
+case 193 r=4 |P|=4 cnt=17 static maxoff=3 cost=20
+static-able: 9 / 210

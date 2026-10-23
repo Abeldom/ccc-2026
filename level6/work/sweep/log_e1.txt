@@ -1,0 +1,6 @@
+pat 0 r=9 cnt=2 P=109 K=45 base=358 sweep=39 WIN [A1 5..-5 T16+6] [A1 -5..5 T15+2]
+pat 9 r=12 cnt=1 P=89 K=47 base=147 sweep=0 
+pat 14 r=11 cnt=1 P=153 K=57 base=246 sweep=0 
+pat 1 r=11 cnt=1 P=297 K=34 base=473 sweep=0 
+pat 11 r=12 cnt=1 P=29 K=49 base=46 sweep=0 
+pat 6 r=9 cnt=1 P=38 K=45 base=64 sweep=0 

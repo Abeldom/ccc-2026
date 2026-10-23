@@ -1,0 +1,141 @@
+pat 2 r=11 cnt=1 P=27 K=58 base=13 sweep=0 
+pat 0 r=9 cnt=2 P=109 K=45 base=41 sweep=0  [A2 -5..5 T16+11]
+pat 3 r=9 cnt=1 P=145 K=61 base=34 sweep=0 
+pat 1 r=11 cnt=1 P=297 K=34 base=49 sweep=0 
+pat 6 r=9 cnt=1 P=38 K=45 base=11 sweep=0 
+pat 7 r=9 cnt=2 P=145 K=55 base=60 sweep=0 
+pat 5 r=9 cnt=2 P=68 K=65 base=49 sweep=0 
+pat 9 r=12 cnt=1 P=89 K=47 base=20 sweep=0 
+pat 10 r=11 cnt=1 P=81 K=103 base=29 sweep=0 
+pat 11 r=12 cnt=1 P=29 K=49 base=17 sweep=0 
+pat 8 r=12 cnt=2 P=143 K=58 base=53 sweep=0 
+pat 4 r=9 cnt=2 P=73 K=111 base=67 sweep=0 
+pat 13 r=12 cnt=1 P=101 K=74 base=28 sweep=0 
+pat 14 r=11 cnt=1 P=153 K=57 base=31 sweep=0 
+pat 16 r=9 cnt=1 P=96 K=115 base=43 sweep=0 
+pat 15 r=11 cnt=2 P=29 K=60 base=29 sweep=0 
+pat 18 r=12 cnt=1 P=73 K=43 base=15 sweep=0 
+pat 17 r=12 cnt=1 P=26 K=52 base=14 sweep=0 
+pat 20 r=11 cnt=2 P=64 K=42 base=28 sweep=0  [A2 4..-5 T14+9]
+pat 19 r=9 cnt=2 P=82 K=47 base=34 sweep=0 
+pat 22 r=9 cnt=1 P=97 K=63 base=24 sweep=0 
+pat 12 r=11 cnt=2 P=107 K=94 base=74 sweep=0 
+pat 23 r=10 cnt=2 P=54 K=35 base=22 sweep=0  [A0 -5..4 T15+2]
+pat 24 r=10 cnt=1 P=100 K=65 base=22 sweep=0 
+pat 21 r=12 cnt=2 P=47 K=69 base=32 sweep=0 
+pat 27 r=10 cnt=1 P=43 K=52 base=14 sweep=0 
+pat 25 r=10 cnt=1 P=92 K=72 base=24 sweep=0 
+pat 26 r=11 cnt=1 P=155 K=81 base=40 sweep=0 
+pat 28 r=9 cnt=2 P=109 K=48 base=40 sweep=0  [A0 -6..5 T18+8]
+pat 29 r=12 cnt=1 P=181 K=75 base=42 sweep=0 
+pat 31 r=9 cnt=2 P=57 K=42 base=30 sweep=0 
+pat 32 r=12 cnt=2 P=24 K=45 base=17 sweep=0 
+pat 34 r=11 cnt=1 P=24 K=42 base=11 sweep=0 
+pat 33 r=11 cnt=2 P=32 K=58 base=21 sweep=0 
+pat 35 r=12 cnt=1 P=173 K=66 base=37 sweep=0 
+pat 30 r=11 cnt=2 P=142 K=113 base=74 sweep=0 
+pat 37 r=9 cnt=2 P=52 K=45 base=27 sweep=0  [A2 5..-1 T12+14]
+pat 39 r=10 cnt=1 P=146 K=117 base=38 sweep=0 
+pat 40 r=9 cnt=2 P=106 K=44 base=70 sweep=30 WIN [swept 18] [swept 12]
+pat 38 r=12 cnt=2 P=56 K=59 base=36 sweep=0 
+pat 42 r=10 cnt=1 P=27 K=46 base=14 sweep=0 
+pat 41 r=11 cnt=1 P=110 K=87 base=29 sweep=0 
+pat 43 r=9 cnt=2 P=46 K=44 base=22 sweep=0 
+pat 44 r=10 cnt=2 P=20 K=33 base=15 sweep=0 
+pat 36 r=10 cnt=2 P=87 K=117 base=60 sweep=0 
+pat 45 r=11 cnt=1 P=78 K=141 base=31 sweep=0 
+pat 46 r=10 cnt=2 P=20 K=44 base=19 sweep=0 
+pat 47 r=12 cnt=2 P=78 K=69 base=37 sweep=0 
+pat 50 r=11 cnt=1 P=22 K=44 base=10 sweep=0 
+pat 48 r=12 cnt=2 P=65 K=68 base=39 sweep=0 
+pat 52 r=11 cnt=1 P=95 K=70 base=23 sweep=0 
+pat 49 r=9 cnt=2 P=134 K=49 base=115 sweep=70 WIN [A0 5..-7 T18+18] [A1 -6..7 T21+13]
+pat 54 r=12 cnt=1 P=34 K=55 base=13 sweep=0 
+pat 53 r=9 cnt=2 P=71 K=41 base=28 sweep=0  [A0 5..-4 T15+1]
+pat 56 r=10 cnt=1 P=53 K=61 base=20 sweep=0 
+pat 55 r=11 cnt=2 P=100 K=59 base=46 sweep=0 
+pat 51 r=12 cnt=2 P=209 K=119 base=117 sweep=0 
+pat 58 r=12 cnt=2 P=62 K=62 base=40 sweep=0 
+pat 59 r=10 cnt=2 P=88 K=42 base=39 sweep=36 WIN [A1 -5..4 T15+5] [A1 4..-5 T14+2]
+pat 60 r=9 cnt=1 P=55 K=56 base=18 sweep=0 
+pat 61 r=11 cnt=1 P=90 K=73 base=25 sweep=0 
+pat 57 r=11 cnt=2 P=147 K=115 base=82 sweep=0 
+pat 63 r=9 cnt=1 P=113 K=77 base=32 sweep=0 
+pat 62 r=12 cnt=2 P=126 K=87 base=64 sweep=0 
+pat 65 r=10 cnt=2 P=31 K=56 base=24 sweep=0 
+pat 67 r=10 cnt=2 P=18 K=37 base=13 sweep=0 
+pat 66 r=11 cnt=2 P=120 K=50 base=47 sweep=0  [A2 6..-6 T19+17]
+pat 69 r=11 cnt=1 P=101 K=87 base=30 sweep=0 
+pat 70 r=11 cnt=2 P=56 K=45 base=30 sweep=0 
+pat 71 r=12 cnt=1 P=151 K=56 base=35 sweep=0 
+pat 72 r=10 cnt=2 P=107 K=46 base=96 sweep=45 WIN [A0 -6..6 T19+6] [swept 20]
+pat 68 r=11 cnt=2 P=68 K=76 base=46 sweep=0 
+pat 64 r=12 cnt=2 P=184 K=174 base=131 sweep=0 
+pat 73 r=12 cnt=1 P=70 K=71 base=24 sweep=0 
+pat 75 r=10 cnt=1 P=68 K=36 base=22 sweep=0 
+pat 76 r=10 cnt=2 P=29 K=54 base=26 sweep=0 
+pat 74 r=9 cnt=2 P=39 K=49 base=29 sweep=0 
+pat 78 r=10 cnt=2 P=120 K=47 base=66 sweep=33 WIN [swept 19] [A1 6..-5 T12+2]
+pat 77 r=10 cnt=2 P=73 K=79 base=55 sweep=0 
+pat 80 r=12 cnt=1 P=187 K=96 base=45 sweep=0 
+pat 81 r=10 cnt=2 P=40 K=44 base=24 sweep=0 
+pat 82 r=11 cnt=1 P=56 K=44 base=17 sweep=0 
+pat 79 r=12 cnt=1 P=174 K=95 base=46 sweep=0 
+pat 83 r=9 cnt=1 P=136 K=79 base=38 sweep=0 
+pat 84 r=10 cnt=1 P=169 K=81 base=44 sweep=0 
+pat 87 r=9 cnt=1 P=34 K=50 base=16 sweep=0 
+pat 85 r=10 cnt=2 P=37 K=58 base=25 sweep=0 
+pat 88 r=9 cnt=2 P=40 K=41 base=24 sweep=0 
+pat 90 r=9 cnt=1 P=72 K=62 base=23 sweep=0 
+pat 86 r=11 cnt=2 P=65 K=83 base=44 sweep=0 
+pat 91 r=11 cnt=2 P=76 K=44 base=32 sweep=0  [A1 -4..4 T13+15]
+pat 89 r=11 cnt=2 P=46 K=59 base=35 sweep=0 
+pat 93 r=12 cnt=2 P=108 K=48 base=53 sweep=51 WIN [A1 5..-5 T16+7] [A1 5..-5 T20+8]
+pat 95 r=10 cnt=1 P=35 K=53 base=15 sweep=0 
+pat 96 r=12 cnt=2 P=24 K=51 base=26 sweep=0 
+pat 97 r=10 cnt=1 P=85 K=71 base=31 sweep=0 
+pat 94 r=12 cnt=1 P=171 K=96 base=43 sweep=0 
+pat 98 r=10 cnt=2 P=86 K=75 base=53 sweep=0 
+pat 92 r=10 cnt=2 P=85 K=137 base=74 sweep=0 
+pat 101 r=11 cnt=1 P=55 K=42 base=16 sweep=0 
+pat 102 r=11 cnt=1 P=43 K=53 base=15 sweep=0 
+pat 100 r=12 cnt=1 P=88 K=111 base=36 sweep=0 
+pat 104 r=10 cnt=1 P=121 K=91 base=36 sweep=0 
+pat 105 r=9 cnt=1 P=53 K=56 base=17 sweep=0 
+pat 103 r=10 cnt=2 P=232 K=39 base=120 sweep=0 
+pat 99 r=10 cnt=2 P=113 K=85 base=61 sweep=0 
+pat 106 r=9 cnt=1 P=118 K=47 base=27 sweep=0 
+pat 107 r=9 cnt=1 P=92 K=69 base=25 sweep=0 
+pat 109 r=9 cnt=1 P=37 K=70 base=17 sweep=0 
+pat 111 r=10 cnt=1 P=122 K=109 base=33 sweep=0 
+pat 110 r=10 cnt=1 P=78 K=66 base=26 sweep=0 
+pat 112 r=9 cnt=1 P=177 K=40 base=36 sweep=0 
+pat 108 r=11 cnt=2 P=56 K=64 base=35 sweep=0 
+pat 115 r=9 cnt=1 P=33 K=51 base=13 sweep=0 
+pat 113 r=11 cnt=2 P=227 K=71 base=135 sweep=0 
+pat 114 r=11 cnt=2 P=209 K=96 base=123 sweep=0 
+pat 116 r=10 cnt=1 P=163 K=108 base=51 sweep=0 
+pat 118 r=10 cnt=1 P=98 K=52 base=27 sweep=0 
+pat 119 r=9 cnt=1 P=87 K=44 base=19 sweep=0 
+pat 117 r=12 cnt=2 P=144 K=117 base=111 sweep=0 
+pat 120 r=12 cnt=2 P=27 K=49 base=21 sweep=0 
+pat 123 r=11 cnt=1 P=87 K=46 base=19 sweep=0 
+pat 121 r=11 cnt=1 P=105 K=62 base=27 sweep=0 
+pat 124 r=9 cnt=2 P=31 K=52 base=23 sweep=0 
+pat 125 r=12 cnt=1 P=121 K=210 base=53 sweep=0 
+pat 127 r=9 cnt=1 P=25 K=42 base=13 sweep=0 
+pat 126 r=12 cnt=2 P=87 K=69 base=45 sweep=0 
+pat 129 r=11 cnt=1 P=37 K=69 base=21 sweep=0 
+pat 122 r=11 cnt=2 P=217 K=94 base=134 sweep=0 
+pat 130 r=11 cnt=1 P=116 K=140 base=41 sweep=0 
+pat 131 r=9 cnt=2 P=49 K=48 base=28 sweep=0 
+pat 133 r=11 cnt=1 P=93 K=51 base=23 sweep=0 
+pat 128 r=10 cnt=2 P=157 K=107 base=91 sweep=0 
+pat 134 r=11 cnt=2 P=81 K=41 base=76 sweep=41 WIN [A1 -5..5 T16+2] [A2 3..-4 T10+13]
+pat 135 r=12 cnt=2 P=84 K=46 base=40 sweep=0  [A0 -4..5 T14+18]
+pat 136 r=9 cnt=1 P=60 K=63 base=17 sweep=0 
+pat 137 r=10 cnt=2 P=35 K=56 base=26 sweep=0 
+pat 138 r=9 cnt=2 P=62 K=49 base=34 sweep=0  [A0 6..0 T13+13]
+pat 139 r=11 cnt=1 P=89 K=43 base=22 sweep=0 
+pat 132 r=11 cnt=1 P=193 K=137 base=67 sweep=0 
+total 5271

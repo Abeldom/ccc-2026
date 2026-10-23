@@ -1,0 +1,3 @@
+Score history of the counted files (medium + large + enormous), lower is better
+18:15  medium 5941  large 5603  enormous 5054  total 16598
+18:26  medium 5941  large 5603  enormous 5054  total 16598

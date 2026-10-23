@@ -1,0 +1,210 @@
+  0 r= 3 c=14 |P|= 12 |K|=  7 best= 43  H: 5/ 5 k  7 mx2  U: 5/ 5 k  7 mx3  V: 5/ 5 k  7 mx3
+  1 r= 4 c=4 |P|= 11 |K|= 19 best= 13  H: 5/ 5 k 15 mx4  U: 5/ 5 k 13 mx3  V: 4/ 4 k 12 mx4
+  2 r= 3 c=1 |P|= 10 |K|=  8 best=  3  H: 5/ 5 k  8 mx4  U: 4/ 4 k  6 mx2  V: 5/ 5 k  8 mx4
+  3 r= 5 c=11 |P|= 19 |K|= 11 best= 35  H: 7/ 7 k 10 mx2  U: 7/ 7 k  9 mx2  V: 4/ 4 k  7 mx5
+  4 r= 4 c=3 |P|= 10 |K|= 10 best=  8  H: 4/ 4 k  8 mx4  U: 6/ 6 k  8 mx2  V: 5/ 5 k  9 mx4
+  5 r= 4 c=7 |P|=  9 |K|= 10 best= 15  H: 5/ 5 k  7 mx2  U: 3/ 3 k  5 mx3  V: 4/ 4 k  7 mx2
+  6 r= 3 c=13 |P|=  4 |K|=  8 best= 27  H: 2/ 2 k  4 mx3  U: 3/ 3 k  6 mx3  V: 4/ 4 k  6 mx2
+  7 r= 4 c=13 |P|=  4 |K|= 12 best= 15  H: 4/ 4 k  8 mx2  U: 1/ 1 k  2 mx2  V: 4/ 4 k  8 mx2
+  8 r= 3 c=5 |P|=  9 |K|=  9 best= 11  H: 5/ 5 k  9 mx3  U: 5/ 5 k  9 mx3  V: 3/ 3 k  4 mx3
+  9 r= 5 c=17 |P|= 16 |K|= 21 best= 53  H: 5/ 5 k 13 mx3  U: 5/ 5 k 13 mx3  V: 5/ 5 k 13 mx3
+ 10 r= 4 c=9 |P|= 15 |K|= 17 best= 28  H: 5/ 5 k 10 mx2  U: 6/ 6 k 14 mx3  V: 4/ 4 k  9 mx3
+ 11 r= 4 c=9 |P|=  8 |K|= 15 best= 19  H: 5/ 5 k 11 mx3  U: 3/ 3 k  8 mx4  V: 4/ 4 k 10 mx3
+ 12 r= 3 c=13 |P|=  6 |K|=  7 best= 27  H: 4/ 4 k  5 mx2  U: 3/ 3 k  5 mx3  V: 3/ 3 k  5 mx2
+ 13 r= 3 c=12 |P|=  7 |K|= 11 best= 25  H: 4/ 4 k  8 mx2  U: 3/ 3 k  6 mx3  V: 3/ 3 k  6 mx2
+ 14 r= 3 c=14 |P|= 10 |K|=  6 best= 29  H: 5/ 5 k  6 mx2  U: 4/ 4 k  5 mx3  V: 5/ 5 k  6 mx3
+ 15 r= 4 c=5 |P|= 10 |K|= 19 best= 16  H: 4/ 4 k 12 mx3  U: 4/ 4 k 12 mx4  V: 5/ 5 k 13 mx4
+ 16 r= 5 c=17 |P|=  6 |K|= 16 best= 19  H: 4/ 4 k 10 mx4  U: 4/ 4 k 10 mx4  V: 3/ 3 k  9 mx4
+ 17 r= 3 c=15 |P|= 11 |K|=  8 best= 31  H: 4/ 4 k  5 mx2  U: 4/ 4 k  5 mx2  V: 5/ 5 k  8 mx2
+ 18 r= 3 c=14 |P|= 13 |K|=  5 best= 29  H: 5/ 5 k  5 mx2  U: 5/ 5 k  5 mx2  V: 5/ 5 k  5 mx2
+ 19 r= 3 c=13 |P|=  8 |K|=  7 best= 27  H: 4/ 4 k  6 mx4  U: 5/ 5 k  7 mx2  V: 4/ 4 k  6 mx4
+ 20 r= 4 c=1 |P|=  9 |K|=  9 best=  5  H: 7/ 7 k  9 mx2  U: 4/ 4 k  8 mx3  V: 4/ 4 k  8 mx4
+ 21 r= 4 c=17 |P|= 14 |K|= 10 best= 53  H: 6/ 6 k  9 mx3  U: 4/ 4 k  7 mx3  V: 7/ 7 k 10 mx3
+ 22 r= 4 c=7 |P|= 11 |K|= 19 best= 22  H: 4/ 4 k 11 mx3  U: 5/ 5 k 14 mx4  V: 5/ 5 k 14 mx4
+ 23 r= 3 c=14 |P|=  9 |K|=  8 best= 29  H: 4/ 4 k  7 mx3  U: 5/ 5 k  8 mx2  V: 3/ 3 k  3 mx2
+ 24 r= 5 c=19 |P|=  5 |K|= 14 best= 38  H: 2/ 2 k  6 mx3  U: 4/ 4 k 10 mx3  V: 4/ 4 k  9 mx3
+ 25 r= 5 c=17 |P|= 14 |K|= 19 best= 53  H: 5/ 5 k 11 mx3  U: 5/ 5 k 13 mx5  V: 5/ 5 k 13 mx4
+ 26 r= 5 c=10 |P|= 16 |K|= 29 best= 52  H: 6/ 6 k 21 mx5  U: 8/ 8 k 27 mx5  V: 8/ 8 k 26 mx5
+ 27 r= 3 c=6 |P|=  7 |K|= 11 best= 13  H: 3/ 3 k  6 mx3  U: 4/ 4 k  8 mx2  V: 3/ 3 k  6 mx2
+ 28 r= 4 c=12 |P|= 20 |K|= 14 best= 58  H: 7/ 7 k 14 mx3  U: 7/ 7 k 14 mx5  V: 7/ 7 k 14 mx3
+ 29 r= 4 c=12 |P|= 11 |K|= 15 best= 26  H: 5/ 5 k 10 mx2  U: 4/ 4 k  8 mx2  V: 3/ 3 k  6 mx2
+ 30 r= 5 c=7 |P|= 23 |K|= 29 best= 38  H: 7/ 7 k 20 mx5  U: 7/ 7 k 21 mx5  V: 6/ 6 k 22 mx6
+ 31 r= 4 c=2 |P|= 32 |K|=  5 best= 11  H: 7/ 7 k  5 mx2  U: 7/ 7 k  5 mx2  V: 7/ 7 k  5 mx2
+ 32 r= 3 c=6 |P|= 19 |K|=  0 best= 18  H: 5/ 5 k  0 mx0  U: 5/ 5 k  0 mx0  V: 5/ 5 k  0 mx0
+ 33 r= 5 c=19 |P|=  8 |K|= 17 best= 40  H: 5/ 5 k 12 mx3  U: 4/ 4 k 12 mx3  V: 4/ 4 k 13 mx4
+ 34 r= 5 c=3 |P|= 16 |K|= 22 best= 10  H: 6/ 6 k 17 mx5  U: 5/ 5 k 13 mx4  V: 6/ 6 k 18 mx5
+ 35 r= 5 c=17 |P|= 21 |K|= 22 best= 86  H: 6/ 6 k 19 mx5  U: 7/ 7 k 18 mx4  V: 9/ 9 k 22 mx5
+ 36 r= 3 c=3 |P|=  8 |K|=  5 best=  7  H: 3/ 3 k  3 mx2  U: 5/ 5 k  5 mx1  V: 3/ 3 k  3 mx2
+ 37 r= 4 c=15 |P|= 10 |K|= 15 best= 31  H: 4/ 4 k  8 mx2  U: 4/ 4 k 10 mx4  V: 4/ 4 k  9 mx3
+ 38 r= 3 c=7 |P|=  8 |K|=  8 best= 15  H: 4/ 4 k  7 mx3  U: 4/ 4 k  7 mx3  V: 5/ 5 k  8 mx2
+ 39 r= 4 c=6 |P|=  8 |K|= 18 best= 14  H: 4/ 4 k 12 mx4  U: 4/ 4 k 12 mx5  V: 5/ 5 k 12 mx3
+ 40 r= 3 c=14 |P|= 10 |K|=  9 best= 43  H: 5/ 5 k  9 mx2  U: 5/ 5 k  9 mx4  V: 5/ 5 k  9 mx3
+ 41 r= 4 c=1 |P|= 14 |K|= 12 best=  4  H: 7/ 7 k 12 mx4  U: 7/ 7 k 12 mx4  V: 4/ 4 k  9 mx4
+ 42 r= 3 c=5 |P|=  6 |K|= 10 best= 11  H: 3/ 3 k  7 mx3  U: 4/ 4 k  8 mx3  V: 4/ 4 k  8 mx3
+ 43 r= 3 c=2 |P|=  5 |K|=  8 best=  5  H: 5/ 5 k  8 mx2  U: 3/ 3 k  5 mx3  V: 3/ 3 k  5 mx3
+ 44 r= 5 c=14 |P|= 10 |K|= 16 best= 43  H: 5/ 5 k 10 mx2  U: 4/ 4 k 10 mx4  V: 4/ 4 k 10 mx4
+ 45 r= 5 c=2 |P|= 14 |K|= 21 best=  7  H: 5/ 5 k 15 mx4  U: 5/ 5 k 14 mx3  V: 5/ 5 k 14 mx4
+ 46 r= 4 c=8 |P|=  8 |K|= 14 best= 17  H: 4/ 4 k  9 mx3  U: 3/ 3 k  8 mx4  V: 4/ 4 k  8 mx2
+ 47 r= 3 c=11 |P|=  8 |K|= 11 best= 23  H: 5/ 5 k 11 mx4  U: 4/ 4 k  8 mx2  V: 4/ 4 k  8 mx3
+ 48 r= 4 c=15 |P|= 13 |K|= 17 best= 46  H: 5/ 5 k 11 mx3  U: 4/ 4 k 10 mx4  V: 5/ 5 k 12 mx3
+ 49 r= 5 c=16 |P|= 22 |K|= 29 best= 93  H: 7/ 7 k 22 mx4  U: 7/ 7 k 23 mx4  V: 6/ 6 k 19 mx5
+ 50 r= 5 c=19 |P|= 19 |K|= 32 best=116  H: 6/ 6 k 21 mx5  U: 7/ 7 k 26 mx5  V: 7/ 7 k 25 mx5
+ 51 r= 4 c=10 |P|=  7 |K|= 11 best= 21  H: 3/ 3 k  6 mx3  U: 5/ 5 k  9 mx2  V: 4/ 4 k  9 mx3
+ 52 r= 4 c=6 |P|=  5 |K|= 13 best= 13  H: 4/ 4 k  8 mx2  U: 2/ 2 k  6 mx4  V: 4/ 4 k  9 mx3
+ 53 r= 3 c=17 |P|=  6 |K|= 11 best= 35  H: 4/ 4 k  9 mx3  U: 4/ 4 k  9 mx3  V: 3/ 3 k  6 mx3
+ 54 r= 3 c=4 |P|= 13 |K|=  4 best= 10  H: 5/ 5 k  4 mx1  U: 5/ 5 k  4 mx2  V: 4/ 4 k  3 mx3
+ 55 r= 3 c=18 |P|= 13 |K|=  6 best= 37  H: 4/ 4 k  3 mx1  U: 5/ 5 k  6 mx2  V: 4/ 4 k  3 mx2
+ 56 r= 5 c=15 |P|=  8 |K|= 18 best= 46  H: 4/ 4 k 12 mx4  U: 5/ 5 k 13 mx3  V: 4/ 4 k 13 mx5
+ 57 r= 4 c=12 |P|= 12 |K|= 16 best= 25  H: 4/ 4 k 10 mx4  U: 4/ 4 k  8 mx3  V: 6/ 6 k 14 mx3
+ 58 r= 5 c=5 |P|= 22 |K|= 27 best= 35  H: 9/ 9 k 27 mx7  U: 8/ 8 k 24 mx6  V: 7/ 7 k 25 mx5
+ 59 r= 5 c=5 |P|= 36 |K|= 22 best= 28  H: 7/ 7 k 13 mx3  U: 8/ 8 k 20 mx5  V: 8/ 8 k 17 mx4
+ 60 r= 3 c=14 |P|= 10 |K|=  5 best= 29  H: 4/ 4 k  4 mx3  U: 5/ 5 k  5 mx1  V: 4/ 4 k  4 mx3
+ 61 r= 3 c=15 |P|= 10 |K|=  6 best= 31  H: 5/ 5 k  6 mx2  U: 4/ 4 k  4 mx2  V: 3/ 3 k  2 mx2
+ 62 r= 5 c=10 |P|=  9 |K|= 19 best= 31  H: 5/ 5 k 13 mx3  U: 4/ 4 k 14 mx5  V: 5/ 5 k 15 mx5
+ 63 r= 3 c=2 |P|= 10 |K|=  9 best=  7  H: 5/ 5 k  9 mx3  U: 4/ 4 k  6 mx3  V: 5/ 5 k  9 mx4
+ 64 r= 3 c=6 |P|=  6 |K|=  8 best= 12  H: 2/ 2 k  3 mx3  U: 5/ 5 k  8 mx3  V: 5/ 5 k  8 mx2
+ 65 r= 5 c=1 |P|= 14 |K|= 21 best=  4  H: 5/ 5 k 13 mx3  U: 5/ 5 k 14 mx5  V: 5/ 5 k 15 mx4
+ 66 r= 4 c=10 |P|= 11 |K|= 16 best= 21  H: 5/ 5 k 12 mx4  U: 4/ 4 k  8 mx2  V: 4/ 4 k  9 mx3
+ 67 r= 5 c=15 |P|=  5 |K|= 14 best= 31  H: 2/ 2 k  6 mx4  U: 4/ 4 k  9 mx3  V: 4/ 4 k  9 mx3
+ 68 r= 3 c=12 |P|= 12 |K|=  5 best= 25  H: 5/ 5 k  5 mx1  U: 4/ 4 k  4 mx3  V: 4/ 4 k  3 mx2
+ 69 r= 4 c=4 |P|=  4 |K|= 12 best=  6  H: 4/ 4 k  8 mx2  U: 4/ 4 k  8 mx2  V: 1/ 1 k  2 mx2
+ 70 r= 4 c=14 |P|= 17 |K|= 19 best= 43  H: 5/ 5 k 12 mx3  U: 5/ 5 k 11 mx3  V: 5/ 5 k 12 mx3
+ 71 r= 5 c=18 |P|=  5 |K|= 14 best= 21  H: 1/ 1 k  2 mx2  U: 5/ 5 k 10 mx2  V: 5/ 5 k 10 mx2
+ 72 r= 4 c=16 |P|= 13 |K|= 17 best= 51  H: 5/ 5 k 12 mx5  U: 6/ 6 k 14 mx4  V: 7/ 7 k 17 mx4
+ 73 r= 3 c=10 |P|=  9 |K|=  8 best= 21  H: 4/ 4 k  6 mx3  U: 4/ 4 k  7 mx3  V: 5/ 5 k  8 mx3
+ 74 r= 3 c=7 |P|= 12 |K|=  6 best= 15  H: 5/ 5 k  6 mx2  U: 4/ 4 k  4 mx2  V: 4/ 4 k  4 mx3
+ 75 r= 3 c=2 |P|= 11 |K|=  8 best=  5  H: 4/ 4 k  5 mx2  U: 4/ 4 k  5 mx2  V: 5/ 5 k  8 mx2
+ 76 r= 3 c=14 |P|=  7 |K|=  5 best= 28  H: 4/ 4 k  4 mx1  U: 4/ 4 k  4 mx1  V: 2/ 2 k  0 mx0
+ 77 r= 4 c=8 |P|= 19 |K|= 12 best= 33  H: 7/ 7 k 12 mx3  U: 6/ 6 k 10 mx4  V: 6/ 6 k 11 mx4
+ 78 r= 3 c=12 |P|=  8 |K|=  8 best= 25  H: 4/ 4 k  6 mx2  U: 3/ 3 k  4 mx3  V: 4/ 4 k  6 mx2
+ 79 r= 3 c=2 |P|=  4 |K|=  8 best=  5  H: 2/ 2 k  4 mx3  U: 3/ 3 k  6 mx3  V: 4/ 4 k  6 mx2
+ 80 r= 5 c=18 |P|= 16 |K|= 24 best= 74  H: 5/ 5 k 20 mx6  U: 7/ 7 k 18 mx4  V: 6/ 6 k 16 mx4
+ 81 r= 3 c=2 |P|= 13 |K|=  6 best=  6  H: 5/ 5 k  6 mx3  U: 5/ 5 k  6 mx2  V: 5/ 5 k  6 mx2
+ 82 r= 3 c=2 |P|= 11 |K|=  8 best=  6  H: 5/ 5 k  8 mx2  U: 4/ 4 k  5 mx2  V: 5/ 5 k  8 mx2
+ 83 r= 5 c=4 |P|=  8 |K|= 20 best= 13  H: 7/ 7 k 15 mx3  U: 4/ 4 k 14 mx5  V: 5/ 5 k 15 mx4
+ 84 r= 5 c=9 |P|= 15 |K|= 17 best= 28  H: 5/ 5 k 11 mx3  U: 4/ 4 k  8 mx2  V: 5/ 5 k 11 mx3
+ 85 r= 4 c=17 |P|=  8 |K|=  7 best= 35  H: 3/ 3 k  4 mx2  U: 4/ 4 k  4 mx1  V: 3/ 3 k  3 mx1
+ 86 r= 4 c=10 |P|= 14 |K|= 14 best= 34  H: 7/ 7 k 14 mx4  U: 6/ 6 k 10 mx4  V: 7/ 7 k 14 mx4
+ 87 r= 4 c=6 |P|= 10 |K|= 11 best= 14  H: 4/ 4 k  8 mx3  U: 5/ 5 k  8 mx2  V: 4/ 4 k  8 mx3
+ 88 r= 4 c=4 |P|=  7 |K|= 14 best=  9  H: 4/ 4 k  8 mx2  U: 4/ 4 k 10 mx3  V: 3/ 3 k  9 mx4
+ 89 r= 3 c=4 |P|= 17 |K|=  2 best= 12  H: 5/ 5 k  2 mx1  U: 5/ 5 k  2 mx2  V: 5/ 5 k  2 mx1
+ 90 r= 3 c=13 |P|= 11 |K|=  8 best= 39  H: 3/ 3 k  2 mx1  U: 5/ 5 k  8 mx2  V: 5/ 5 k  8 mx2
+ 91 r= 4 c=13 |P|=  5 |K|= 14 best= 27  H: 4/ 4 k 10 mx3  U: 3/ 3 k  9 mx3  V: 3/ 3 k  8 mx3
+ 92 r= 4 c=6 |P|=  4 |K|= 12 best= 13  H: 2/ 2 k  6 mx4  U: 3/ 3 k  7 mx3  V: 4/ 4 k  8 mx2
+ 93 r= 3 c=17 |P|=  7 |K|=  8 best= 35  H: 4/ 4 k  6 mx2  U: 3/ 3 k  5 mx3  V: 4/ 4 k  7 mx2
+ 94 r= 4 c=14 |P|=  5 |K|= 13 best= 29  H: 4/ 4 k  8 mx2  U: 3/ 3 k  8 mx3  V: 3/ 3 k  9 mx4
+ 95 r= 4 c=11 |P|=  6 |K|= 14 best= 23  H: 4/ 4 k 11 mx4  U: 6/ 6 k 12 mx2  V: 3/ 3 k  8 mx5
+ 96 r= 3 c=3 |P|= 14 |K|=  5 best=  7  H: 5/ 5 k  5 mx2  U: 5/ 5 k  5 mx2  V: 4/ 4 k  2 mx2
+ 97 r= 3 c=1 |P|=  5 |K|=  7 best=  2  H: 4/ 4 k  6 mx2  U: 4/ 4 k  6 mx2  V: 2/ 2 k  2 mx2
+ 98 r= 5 c=11 |P|= 11 |K|= 20 best= 34  H: 4/ 4 k 13 mx4  U: 5/ 5 k 14 mx4  V: 5/ 5 k 13 mx4
+ 99 r= 5 c=7 |P|= 11 |K|= 17 best= 15  H: 4/ 4 k 11 mx4  U: 5/ 5 k 12 mx4  V: 5/ 5 k 11 mx3
+100 r= 3 c=7 |P|=  8 |K|= 10 best= 15  H: 3/ 3 k  5 mx3  U: 4/ 4 k  7 mx2  V: 4/ 4 k  8 mx3
+101 r= 5 c=14 |P|=  6 |K|= 16 best= 17  H: 1/ 1 k  2 mx2  U: 6/ 6 k 12 mx2  V: 6/ 6 k 12 mx2
+102 r= 5 c=1 |P|=  7 |K|= 18 best=  4  H: 4/ 4 k 11 mx5  U: 4/ 4 k 13 mx4  V: 5/ 5 k 12 mx4
+103 r= 3 c=13 |P|=  4 |K|=  9 best= 15  H: 4/ 4 k  7 mx2  U: 1/ 1 k  1 mx1  V: 4/ 4 k  7 mx2
+104 r= 3 c=5 |P|=  5 |K|=  5 best= 10  H: 4/ 4 k  4 mx1  U: 2/ 2 k  2 mx2  V: 3/ 3 k  4 mx2
+105 r= 4 c=7 |P|= 14 |K|= 18 best= 23  H: 5/ 5 k 14 mx5  U: 6/ 6 k 14 mx4  V: 7/ 7 k 18 mx4
+106 r= 3 c=15 |P|=  8 |K|=  9 best= 32  H: 4/ 4 k  8 mx3  U: 4/ 4 k  7 mx4  V: 5/ 5 k  9 mx3
+107 r= 4 c=16 |P|= 19 |K|= 14 best= 66  H: 7/ 7 k 14 mx3  U: 6/ 6 k 11 mx3  V: 6/ 6 k 13 mx4
+108 r= 3 c=11 |P|=  5 |K|=  9 best= 23  H: 4/ 4 k  7 mx2  U: 3/ 3 k  5 mx3  V: 3/ 3 k  7 mx4
+109 r= 4 c=3 |P|= 12 |K|= 20 best= 10  H: 5/ 5 k 12 mx3  U: 5/ 5 k 16 mx4  V: 5/ 5 k 15 mx4
+110 r= 5 c=13 |P|= 11 |K|= 13 best= 42  H: 7/ 7 k 11 mx4  U: 8/ 8 k 12 mx3  V: 4/ 4 k  9 mx4
+111 r= 4 c=13 |P|= 10 |K|=  8 best= 27  H: 3/ 3 k  4 mx2  U: 4/ 4 k  5 mx2  V: 4/ 4 k  4 mx1
+112 r= 3 c=10 |P|=  9 |K|=  9 best= 31  H: 5/ 5 k  9 mx3  U: 5/ 5 k  9 mx3  V: 4/ 4 k  7 mx3
+113 r= 3 c=9 |P|=  8 |K|=  9 best= 19  H: 4/ 4 k  7 mx3  U: 5/ 5 k  9 mx3  V: 3/ 3 k  5 mx2
+114 r= 3 c=16 |P|= 11 |K|=  7 best= 33  H: 4/ 4 k  5 mx2  U: 4/ 4 k  5 mx2  V: 5/ 5 k  7 mx2
+115 r= 3 c=13 |P|= 10 |K|=  8 best= 39  H: 5/ 5 k  8 mx3  U: 5/ 5 k  8 mx3  V: 5/ 5 k  8 mx2
+116 r= 3 c=3 |P|=  7 |K|=  8 best=  7  H: 5/ 5 k  8 mx3  U: 3/ 3 k  4 mx2  V: 5/ 5 k  8 mx3
+117 r= 5 c=3 |P|= 21 |K|= 21 best= 13  H: 5/ 5 k 14 mx5  U: 7/ 7 k 16 mx3  V: 6/ 6 k 15 mx3
+118 r= 4 c=7 |P|=  6 |K|= 15 best= 15  H: 3/ 3 k  8 mx4  U: 4/ 4 k  9 mx3  V: 4/ 4 k 11 mx4
+119 r= 4 c=17 |P|= 28 |K|=  9 best= 86  H: 7/ 7 k  9 mx2  U: 7/ 7 k  9 mx4  V: 7/ 7 k  9 mx4
+120 r= 3 c=14 |P|=  9 |K|= 10 best= 29  H: 4/ 4 k  7 mx2  U: 5/ 5 k 10 mx2  V: 3/ 3 k  4 mx2
+121 r= 3 c=11 |P|=  4 |K|=  8 best= 12  H: 4/ 4 k  7 mx2  U: 4/ 4 k  7 mx2  V: 1/ 1 k  0 mx0
+122 r= 3 c=13 |P|=  9 |K|=  6 best= 27  H: 4/ 4 k  4 mx1  U: 4/ 4 k  5 mx2  V: 3/ 3 k  3 mx3
+123 r= 4 c=11 |P|=  5 |K|= 14 best= 24  H: 3/ 3 k  8 mx4  U: 5/ 5 k 10 mx2  V: 3/ 3 k  8 mx4
+124 r= 5 c=7 |P|= 17 |K|= 34 best= 38  H: 7/ 7 k 28 mx6  U: 6/ 6 k 25 mx7  V: 7/ 7 k 27 mx5
+125 r= 5 c=17 |P|= 17 |K|= 19 best= 52  H: 4/ 4 k 10 mx3  U: 6/ 6 k 14 mx3  V: 6/ 6 k 14 mx3
+126 r= 4 c=13 |P|= 11 |K|= 16 best= 40  H: 5/ 5 k 12 mx4  U: 7/ 7 k 16 mx4  V: 7/ 7 k 16 mx4
+127 r= 5 c=10 |P|=  5 |K|=  9 best= 22  H: 3/ 3 k  7 mx4  U: 5/ 5 k  7 mx2  V: 3/ 3 k  5 mx3
+128 r= 4 c=17 |P|= 16 |K|= 12 best= 52  H: 5/ 5 k 10 mx5  U: 7/ 7 k 12 mx2  V: 7/ 7 k 12 mx4
+129 r= 3 c=6 |P|=  9 |K|=  9 best= 13  H: 4/ 4 k  7 mx3  U: 4/ 4 k  7 mx3  V: 5/ 5 k  9 mx3
+130 r= 5 c=15 |P|= 23 |K|= 23 best= 76  H: 9/ 9 k 23 mx4  U: 9/ 9 k 23 mx5  V: 6/ 6 k 19 mx5
+131 r= 4 c=17 |P|= 10 |K|= 11 best= 52  H: 6/ 6 k 10 mx3  U: 5/ 5 k  8 mx3  V: 4/ 4 k  9 mx4
+132 r= 5 c=6 |P|= 42 |K|= 19 best= 61  H: 9/ 9 k 19 mx5  U: 9/ 9 k 19 mx4  V: 9/ 9 k 19 mx4
+133 r= 4 c=10 |P|= 18 |K|= 18 best= 41  H: 5/ 5 k 10 mx3  U: 7/ 7 k 18 mx4  V: 5/ 5 k 11 mx3
+134 r= 5 c=15 |P|=  4 |K|= 12 best= 31  H: 4/ 4 k  8 mx2  U: 3/ 3 k  7 mx3  V: 2/ 2 k  6 mx4
+135 r= 3 c=5 |P|=  8 |K|=  5 best= 11  H: 3/ 3 k  4 mx4  U: 5/ 5 k  5 mx1  V: 4/ 4 k  4 mx2
+136 r= 3 c=7 |P|= 10 |K|=  9 best= 15  H: 5/ 5 k  9 mx3  U: 5/ 5 k  9 mx3  V: 5/ 5 k  9 mx4
+137 r= 5 c=11 |P|=  8 |K|= 16 best= 24  H: 5/ 5 k 11 mx3  U: 4/ 4 k 10 mx3  V: 3/ 3 k  9 mx4
+138 r= 4 c=15 |P|= 19 |K|= 18 best= 62  H: 7/ 7 k 18 mx5  U: 7/ 7 k 18 mx4  V: 6/ 6 k 14 mx5
+139 r= 4 c=17 |P|=  8 |K|= 10 best= 35  H: 3/ 3 k  6 mx3  U: 3/ 3 k  4 mx2  V: 5/ 5 k  8 mx3
+140 r= 4 c=6 |P|=  7 |K|= 16 best= 14  H: 5/ 5 k 11 mx3  U: 4/ 4 k 10 mx4  V: 3/ 3 k 10 mx5
+141 r= 5 c=17 |P|= 15 |K|=  9 best= 53  H: 8/ 8 k  8 mx1  U: 5/ 5 k  8 mx3  V: 4/ 4 k  5 mx2
+142 r= 5 c=14 |P|= 12 |K|= 21 best= 56  H: 6/ 6 k 16 mx4  U: 5/ 5 k 15 mx4  V: 5/ 5 k 17 mx4
+143 r= 5 c=10 |P|= 11 |K|= 16 best= 31  H: 5/ 5 k 10 mx2  U: 3/ 3 k  8 mx3  V: 5/ 5 k 12 mx3
+144 r= 5 c=15 |P|= 25 |K|= 14 best= 78  H: 7/ 7 k 12 mx3  U: 6/ 6 k 12 mx5  V: 9/ 9 k 14 mx3
+145 r= 3 c=7 |P|=  6 |K|= 12 best= 15  H: 4/ 4 k  9 mx3  U: 3/ 3 k  7 mx3  V: 4/ 4 k  9 mx3
+146 r= 3 c=17 |P|=  8 |K|= 10 best= 36  H: 3/ 3 k  5 mx2  U: 4/ 4 k  7 mx3  V: 5/ 5 k 10 mx3
+147 r= 4 c=15 |P|=  7 |K|= 17 best= 32  H: 4/ 4 k 12 mx3  U: 5/ 5 k 13 mx3  V: 3/ 3 k  9 mx3
+148 r= 3 c=5 |P|=  6 |K|=  9 best= 11  H: 5/ 5 k  9 mx3  U: 2/ 2 k  3 mx2  V: 4/ 4 k  8 mx3
+149 r= 4 c=6 |P|=  7 |K|=  7 best= 13  H: 3/ 3 k  4 mx2  U: 4/ 4 k  4 mx1  V: 3/ 3 k  5 mx3
+150 r= 4 c=1 |P|=  7 |K|= 13 best=  3  H: 3/ 3 k  7 mx3  U: 4/ 4 k  9 mx3  V: 3/ 3 k  6 mx2
+151 r= 3 c=1 |P|=  7 |K|= 11 best=  3  H: 4/ 4 k  9 mx3  U: 3/ 3 k  6 mx3  V: 4/ 4 k  8 mx3
+152 r= 5 c=7 |P|= 18 |K|= 11 best= 23  H: 5/ 5 k  9 mx4  U: 6/ 6 k  7 mx2  V: 6/ 6 k  9 mx3
+153 r= 4 c=19 |P|= 15 |K|= 16 best= 66  H: 7/ 7 k 16 mx4  U: 7/ 7 k 16 mx4  V: 4/ 4 k  9 mx4
+154 r= 5 c=10 |P|=  7 |K|= 13 best= 21  H: 4/ 4 k  8 mx2  U: 4/ 4 k  8 mx2  V: 2/ 2 k  4 mx2
+155 r= 4 c=4 |P|= 14 |K|= 12 best= 14  H: 4/ 4 k  7 mx3  U: 5/ 5 k  9 mx3  V: 7/ 7 k 12 mx4
+156 r= 3 c=19 |P|=  8 |K|=  8 best= 39  H: 4/ 4 k  6 mx3  U: 5/ 5 k  8 mx3  V: 3/ 3 k  4 mx2
+157 r= 3 c=9 |P|=  7 |K|=  5 best= 18  H: 4/ 4 k  4 mx1  U: 4/ 4 k  4 mx1  V: 2/ 2 k  0 mx0
+158 r= 5 c=15 |P|= 28 |K|= 32 best= 92  H: 7/ 7 k 23 mx6  U: 7/ 7 k 22 mx4  V: 7/ 7 k 22 mx5
+159 r= 5 c=19 |P|=  7 |K|= 14 best= 39  H: 3/ 3 k  9 mx4  U: 4/ 4 k  9 mx3  V: 4/ 4 k 10 mx3
+160 r= 4 c=15 |P|= 13 |K|= 18 best= 31  H: 5/ 5 k 11 mx3  U: 5/ 5 k 13 mx4  V: 4/ 4 k 10 mx4
+161 r= 5 c=7 |P|= 59 |K|=  2 best= 53  H: 9/ 9 k  2 mx1  U: 9/ 9 k  2 mx1  V: 9/ 9 k  2 mx1
+162 r= 4 c=17 |P|= 15 |K|= 11 best= 53  H: 6/ 6 k  9 mx2  U: 6/ 6 k 10 mx2  V: 4/ 4 k  7 mx5
+163 r= 3 c=2 |P|= 15 |K|=  4 best=  7  H: 5/ 5 k  4 mx2  U: 5/ 5 k  4 mx2  V: 5/ 5 k  4 mx3
+164 r= 3 c=10 |P|=  6 |K|=  9 best= 21  H: 3/ 3 k  5 mx3  U: 3/ 3 k  5 mx2  V: 4/ 4 k  7 mx2
+165 r= 4 c=10 |P|= 10 |K|= 22 best= 31  H: 5/ 5 k 17 mx5  U: 5/ 5 k 15 mx4  V: 5/ 5 k 18 mx4
+166 r= 3 c=8 |P|=  7 |K|= 11 best= 17  H: 4/ 4 k  9 mx3  U: 3/ 3 k  6 mx3  V: 3/ 3 k  5 mx2
+167 r= 5 c=17 |P|= 49 |K|= 12 best=160  H: 9/ 9 k 12 mx3  U: 9/ 9 k 12 mx4  V: 9/ 9 k 12 mx4
+168 r= 3 c=8 |P|= 11 |K|=  7 best= 17  H: 5/ 5 k  7 mx4  U: 5/ 5 k  7 mx2  V: 4/ 4 k  5 mx2
+169 r= 4 c=1 |P|=  9 |K|= 16 best=  3  H: 4/ 4 k 10 mx4  U: 4/ 4 k 11 mx4  V: 4/ 4 k  9 mx3
+170 r= 4 c=4 |P|= 31 |K|=  6 best= 21  H: 7/ 7 k  6 mx2  U: 7/ 7 k  6 mx2  V: 7/ 7 k  6 mx2
+171 r= 4 c=9 |P|= 22 |K|= 15 best= 37  H: 5/ 5 k  7 mx2  U: 7/ 7 k 15 mx3  V: 7/ 7 k 15 mx3
+172 r= 4 c=7 |P|= 11 |K|= 20 best= 27  H: 4/ 4 k 12 mx5  U: 6/ 6 k 17 mx4  V: 5/ 5 k 15 mx4
+173 r= 4 c=10 |P|= 15 |K|= 17 best= 31  H: 5/ 5 k 11 mx3  U: 4/ 4 k  9 mx3  V: 5/ 5 k 10 mx2
+174 r= 4 c=6 |P|=  7 |K|= 13 best= 13  H: 3/ 3 k  7 mx3  U: 3/ 3 k  7 mx3  V: 4/ 4 k  8 mx2
+175 r= 5 c=15 |P|=  8 |K|= 16 best= 32  H: 4/ 4 k 11 mx4  U: 4/ 4 k 11 mx4  V: 4/ 4 k 10 mx3
+176 r= 5 c=15 |P|=  9 |K|= 21 best= 32  H: 7/ 7 k 17 mx4  U: 7/ 7 k 15 mx3  V: 3/ 3 k 11 mx7
+177 r= 4 c=6 |P|=  5 |K|= 14 best= 14  H: 3/ 3 k  8 mx4  U: 5/ 5 k 10 mx2  V: 3/ 3 k  8 mx4
+178 r= 4 c=14 |P|= 12 |K|= 19 best= 43  H: 5/ 5 k 13 mx3  U: 5/ 5 k 13 mx3  V: 4/ 4 k 11 mx4
+179 r= 3 c=7 |P|= 11 |K|=  6 best= 15  H: 4/ 4 k  5 mx3  U: 5/ 5 k  6 mx4  V: 5/ 5 k  6 mx2
+180 r= 4 c=12 |P|= 29 |K|=  7 best= 50  H: 7/ 7 k  7 mx2  U: 7/ 7 k  7 mx3  V: 7/ 7 k  7 mx3
+181 r= 4 c=19 |P|=  9 |K|= 12 best= 58  H: 5/ 5 k  8 mx2  U: 4/ 4 k  9 mx3  V: 4/ 4 k  9 mx3
+182 r= 5 c=4 |P|= 19 |K|= 21 best= 21  H: 7/ 7 k 19 mx6  U: 7/ 7 k 19 mx5  V: 8/ 8 k 20 mx5
+183 r= 3 c=10 |P|= 12 |K|=  6 best= 31  H: 5/ 5 k  6 mx2  U: 4/ 4 k  4 mx3  V: 4/ 4 k  3 mx1
+184 r= 4 c=4 |P|= 26 |K|= 11 best= 21  H: 7/ 7 k 11 mx3  U: 7/ 7 k 11 mx2  V: 7/ 7 k 11 mx3
+185 r= 4 c=7 |P|= 10 |K|= 12 best= 16  H: 6/ 6 k 10 mx2  U: 4/ 4 k  9 mx3  V: 3/ 3 k  5 mx2
+186 r= 5 c=4 |P|= 32 |K|= 21 best= 33  H: 9/ 9 k 21 mx4  U: 9/ 9 k 21 mx5  V: 9/ 9 k 21 mx4
+187 r= 5 c=2 |P|= 33 |K|= 26 best= 12  H: 7/ 7 k 17 mx3  U: 7/ 7 k 18 mx4  V: 7/ 7 k 17 mx3
+188 r= 5 c=13 |P|=  9 |K|= 17 best= 27  H: 5/ 5 k 11 mx3  U: 4/ 4 k 12 mx4  V: 4/ 4 k 11 mx4
+189 r= 4 c=3 |P|= 10 |K|= 16 best= 10  H: 4/ 4 k 11 mx3  U: 4/ 4 k 10 mx4  V: 5/ 5 k 12 mx3
+190 r= 5 c=9 |P|= 16 |K|= 24 best= 37  H: 6/ 6 k 19 mx5  U: 6/ 6 k 17 mx4  V: 6/ 6 k 20 mx5
+191 r= 5 c=2 |P|= 12 |K|= 18 best=  7  H: 5/ 5 k 12 mx3  U: 4/ 4 k 12 mx4  V: 5/ 5 k 12 mx3
+192 r= 5 c=6 |P|= 23 |K|= 19 best= 28  H: 7/ 7 k 17 mx4  U: 6/ 6 k 15 mx4  V: 7/ 7 k 15 mx3
+193 r= 4 c=17 |P|=  4 |K|= 12 best= 19  H: 4/ 4 k  8 mx2  U: 1/ 1 k  2 mx2  V: 4/ 4 k  8 mx2
+194 r= 5 c=13 |P|=  5 |K|= 14 best= 28  H: 5/ 5 k 10 mx2  U: 3/ 3 k  8 mx4  V: 3/ 3 k  8 mx4
+195 r= 4 c=12 |P|=  4 |K|= 12 best= 24  H: 2/ 2 k  6 mx3  U: 4/ 4 k  8 mx2  V: 3/ 3 k  8 mx3
+196 r= 3 c=8 |P|=  6 |K|= 10 best= 17  H: 4/ 4 k  8 mx3  U: 4/ 4 k  7 mx2  V: 3/ 3 k  7 mx3
+197 r= 5 c=8 |P|= 51 |K|= 10 best= 91  H: 9/ 9 k 10 mx4  U: 9/ 9 k 10 mx2  V: 9/ 9 k 10 mx2
+198 r= 3 c=8 |P|= 19 |K|=  0 best= 24  H: 5/ 5 k  0 mx0  U: 5/ 5 k  0 mx0  V: 5/ 5 k  0 mx0
+199 r= 5 c=3 |P|= 17 |K|= 19 best= 10  H: 5/ 5 k 12 mx3  U: 5/ 5 k 12 mx3  V: 5/ 5 k 11 mx3
+200 r= 5 c=4 |P|= 13 |K|= 18 best= 13  H: 4/ 4 k 13 mx5  U: 5/ 5 k 11 mx3  V: 6/ 6 k 13 mx3
+201 r= 3 c=1 |P|= 11 |K|=  8 best=  3  H: 5/ 5 k  8 mx3  U: 5/ 5 k  8 mx3  V: 5/ 5 k  8 mx2
+202 r= 4 c=7 |P|=  6 |K|= 12 best= 16  H: 4/ 4 k  8 mx2  U: 2/ 2 k  4 mx2  V: 3/ 3 k  6 mx2
+203 r= 5 c=16 |P|= 17 |K|= 25 best= 67  H: 6/ 6 k 17 mx4  U: 5/ 5 k 17 mx4  V: 6/ 6 k 18 mx4
+204 r= 3 c=2 |P|=  6 |K|=  9 best=  5  H: 3/ 3 k  5 mx2  U: 4/ 4 k  7 mx2  V: 3/ 3 k  5 mx3
+205 r= 4 c=10 |P|=  6 |K|=  7 best= 22  H: 3/ 3 k  5 mx4  U: 6/ 6 k  6 mx1  V: 4/ 4 k  6 mx3
+206 r= 3 c=4 |P|=  8 |K|=  8 best=  9  H: 5/ 5 k  8 mx2  U: 5/ 5 k  8 mx3  V: 3/ 3 k  5 mx3
+207 r= 5 c=15 |P|= 22 |K|= 16 best= 62  H: 5/ 5 k 11 mx3  U: 7/ 7 k 13 mx3  V: 7/ 7 k 14 mx3
+208 r= 3 c=9 |P|=  5 |K|=  9 best= 19  H: 3/ 3 k  5 mx3  U: 4/ 4 k  7 mx2  V: 3/ 3 k  7 mx4
+209 r= 3 c=4 |P|=  7 |K|=  5 best=  8  H: 4/ 4 k  4 mx1  U: 2/ 2 k  0 mx0  V: 4/ 4 k  4 mx1

@@ -1,0 +1,5 @@
+RES 20 4
+F F F - - B
+F F T F T T
+F T F T F B
+T F - F B B

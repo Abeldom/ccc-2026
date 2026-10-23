@@ -1,0 +1,6 @@
+Current best (total instruction lines, lower is better):
+0-example          20 lines
+1-small           108 lines
+2-medium         5941 lines
+3-large          5603 lines
+4-enormous       5054 lines

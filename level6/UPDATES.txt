@@ -1,3 +1,4 @@
 Score history of the counted files (medium + large + enormous), lower is better
 18:15  medium 5941  large 5603  enormous 5054  total 16598
 18:26  medium 5941  large 5603  enormous 5054  total 16598
+19:22  medium 5940  large 5334  enormous 4863  total 16137  PATH-fixed merge + exact validation
